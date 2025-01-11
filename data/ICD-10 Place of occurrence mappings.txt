@@ -1,0 +1,4 @@
+"Counter","ICD-10 Place of occurence category","WHO update 1=Add 2=Del","ICD-10 code descriptor","ICD-10-AM Map","Aust update 1=Add 2=Del","ICD-10-AM code descriptor"
+1,"Place=0",,"Home","Y92.09",,"Place of occurrence, other and unspecified place in home"
+2,"Place=0",,"Home","Y92.00",,"Place of occurrence, driveway to home"
+...
