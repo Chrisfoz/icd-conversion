@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.idea/
+.vscode/
+
+# Output files
+output/*
+!output/.gitkeep
+
+# Excel files
+*.xlsx
+*.xls
+
+# Keep data directory structure but ignore contents
+data/*
+!data/.gitkeep
