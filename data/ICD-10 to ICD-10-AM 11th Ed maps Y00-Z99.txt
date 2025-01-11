@@ -1,3 +1,3 @@
 "Counter","ICD-10 code","WHO update 1=Add 2=Del","ICD-10 code descriptor","ICD-10-AM Map","Aust update 1=Add 2=Del","Additive Map (+)","ICD-10-AM code descriptor"
-1,"X30",,"Exposure to excessive natural heat","X30",,"Exposure to excessive natural heat"
+1,"Y00",,"Assault by blunt object","Y00.09",,"Assault by blunt object, unspecified person"
 ...
