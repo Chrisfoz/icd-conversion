@@ -1,0 +1,5 @@
+"Counter","ICD-10 code","WHO update 1=Add 2=Del","ICD-10 code descriptor","ICD-10-AM Map","Aust update 1=Add 2=Del","Additive Map (+)","ICD-10-AM code descriptor"
+1,"X30",,"Exposure to excessive natural heat","X30",,,"Exposure to excessive natural heat"
+2,"X31",,"Exposure to excessive natural cold","X31",,,"Exposure to excessive natural cold"
+3,"X32",,"Exposure to sunlight","X32",,,"Exposure to sunlight"
+4,"X33",,"Victim of lightning","X33",,,"Victim of lightning"
